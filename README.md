@@ -56,7 +56,7 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/pycharm.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code>
-<img align="right"  src="https://github-readme-stats.vercel.app/api?username=XINGMOUREN&count_private=true&show_icons=true" alt="HappyWang" />
+<img align="right"  src="https://github-readme-stats.vercel.app/api?username=lispringing&count_private=true&show_icons=true" alt="小春子" />
 
 **Technology being learned**
 
