@@ -22,14 +22,6 @@
 <br />
 <br />
 
-
-
-- I am a **Student** 
-- I like to use a variety of useful **computer software** and build  **Some procedures**
-- I also like **literature, reading and writing.** 
-- I used to dream of being a Singer.But **the reality made me have to learn a technology💻**
-- Sometimes i like to **type some code.**
-
 <img align="right" alt="jpg" width="250px" src="https://cdn.jsdelivr.net/gh/Jackyu-1999/CDN-Static@main/熊猫.jpg" />
 
 **Talking about Personal Stuffs:**
