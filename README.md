@@ -11,7 +11,7 @@
 <a href="#">
   <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
-<a href="https://github.com/XINGMOUREN">
+<a href="https://github.com/lispringing">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="#">
@@ -23,14 +23,13 @@
 <br>
 <img align="right"  src="https://github-readme-stats.vercel.app/api?username=lispringing&count_private=true&show_icons=true" alt="小春子" />
 
-- 👨 I am a student of **Changyi NO 1 middle school**.
-- 💻 Major is **Physics Chemistry and Biology**.
-- 🌱 I'm currently learning **Python and Linux**. 
+- 👨 I am a student of **YanTai University**.
+- 💻 Major is **#**.
+- 🌱 I'm currently learning **My Major**.(sad) 
 - 🤔 My hobbies are **Play Counter-Strike: Global Offensive**.
-- 💼 I like **the whole job**.
 - 💬 If you have any questions, **just ask me**.
-- This is my email: **w16653669718@163.com**.
-- Click [here](https://happyking.top) to my homepage
+- This is my email: **2638526782@qq.com**.
+- Click [here](https://www.springing.top) to my homepage
 
 
 
