@@ -26,7 +26,7 @@
 - 👨 I am a student of **YanTai University**.
 - 💻 Major is **#**.
 - 🌱 I'm currently learning **My Major**.(sad) 
-- 🤔 My hobbies are **Play Counter-Strike: Global Offensive**.
+- 🤔 I like all **the interesting things**.
 - 💬 If you have any questions, **just ask me**.
 - This is my email: **2638526782@qq.com**.
 - Click [here](https://www.springing.top) to my homepage
