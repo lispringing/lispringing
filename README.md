@@ -24,8 +24,8 @@
 <img align="right"  src="https://github-readme-stats.vercel.app/api?username=lispringing&count_private=true&show_icons=true" alt="小春子" />
 
 - 👨 I am a student of **YanTai University**.
-- 💻 Major is **#**.
-- 🌱 I'm currently learning **My Major**.(sad) 
+- 💻 Major is **Electronic Information Science and Technology**.
+- 🌱 I'm currently learning **STM32**.
 - 🤔 I like all **the interesting things**.
 - 💬 If you have any questions, **just ask me**.
 - This is my email: **2638526782@qq.com**.
