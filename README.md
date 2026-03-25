@@ -25,7 +25,7 @@
 
 - 👨 I am a student of **YanTai University**.
 - 💻 Major is **Electronic Information Science and Technology**.
-- 🌱 I'm currently learning **STM32**.
+- 🌱 I'm currently learning **FPGA**.
 - 🤔 I like all **the interesting things**.
 - 💬 If you have any questions, **just ask me**.
 - This is my email: **2638526782@qq.com**.
@@ -72,7 +72,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-hexo cl && hexo g && hexo algolia &&  gulp && hexo d
+git pull
 ```
 
 <!--END_SECTION:waka-->
