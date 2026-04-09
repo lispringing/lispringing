@@ -30,9 +30,10 @@
 🔧 **Skills:**
 
 ![html](https://img.shields.io/badge/前端-HTML5-red)
-![功能](https://img.shields.io/badge/功能-自定义乐谱-success)
-![适配](https://img.shields.io/badge/适配-PC%20%26%20移动端-orange)
-![价格](https://img.shields.io/badge/文创-平价商品-red)
+![css](https://img.shields.io/badge/前端-CSS3-success)
+![js](https://img.shields.io/badge/前端-JavaScript-orange)
+![51单片机](https://img.shields.io/badge/嵌入式-51单片机-red)
+![FPGA](https://img.shields.io/badge/嵌入式-FPGA-black)
 
 📊 **My recent programming status:**
 <!--START_SECTION:waka-->
