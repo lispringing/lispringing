@@ -32,8 +32,11 @@
 ![html](https://img.shields.io/badge/前端-HTML5-red)
 ![css](https://img.shields.io/badge/前端-CSS3-success)
 ![js](https://img.shields.io/badge/前端-JavaScript-orange)
+![C](https://img.shields.io/badge/语言-C-pink)
+![C](https://img.shields.io/badge/语言-C#-blue)
 ![51单片机](https://img.shields.io/badge/嵌入式-51单片机-red)
 ![FPGA](https://img.shields.io/badge/嵌入式-FPGA-black)
+
 
 📊 **My recent programming status:**
 <!--START_SECTION:waka-->
