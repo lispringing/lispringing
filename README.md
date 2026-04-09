@@ -15,7 +15,7 @@
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
 </a>
 <br>
-<!--<img align="right"  src="https://github-readme-stats.vercel.app/api?username=lispringing&count_private=true&show_icons=true" alt="小春子" />
+<img align="right"  src="https://github-readme-stats.vercel.app/api?username=lispringing&count_private=true&show_icons=true" alt="小春子" />
 
 - 👨 I am a student of **YanTai University**.
 - 💻 Major is **Electronic Information Science and Technology**.
@@ -27,8 +27,10 @@
 
 📊 **My recent programming status:**
 <!--START_SECTION:waka-->
+
 ```text
 git pull
 ```
+
 <!--END_SECTION:waka-->
 
