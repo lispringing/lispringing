@@ -15,7 +15,7 @@
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
 </a>
 <br>
-<iframe src="https://blog.springing.top/people/" width="100%" height="500"></iframe>
+
 <img align="right"  src="https://github-readme-stats.vercel.app/api?username=lispringing&count_private=true&show_icons=true" alt="小春子" />
 
 - 👨 I am a student of **YanTai University**.
@@ -25,6 +25,14 @@
 - 💬 If you have any questions, **just ask me**.
 - This is my email: **2638526782@qq.com**.
 - Click [here](https://www.springing.top) to my homepage
+
+
+🔧 **Skills:**
+
+![项目](https://img.shields.io/badge/项目-仿古编钟-blue)
+![功能](https://img.shields.io/badge/功能-自定义乐谱-success)
+![适配](https://img.shields.io/badge/适配-PC%20%26%20移动端-orange)
+![价格](https://img.shields.io/badge/文创-平价商品-red)
 
 📊 **My recent programming status:**
 <!--START_SECTION:waka-->
